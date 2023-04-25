@@ -1,0 +1,15 @@
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\MiAPO.csproj.AssemblyReference.cache
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\MiAPO.GeneratedMSBuildEditorConfig.editorconfig
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\MiAPO.AssemblyInfoInputs.cache
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\MiAPO.AssemblyInfo.cs
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\MiAPO.csproj.CoreCompileInputs.cache
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\bin\Debug\net6.0\MiAPO.exe
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\bin\Debug\net6.0\MiAPO.deps.json
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\bin\Debug\net6.0\MiAPO.runtimeconfig.json
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\bin\Debug\net6.0\MiAPO.dll
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\bin\Debug\net6.0\MiAPO.pdb
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\MiAPO.dll
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\refint\MiAPO.dll
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\MiAPO.pdb
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\MiAPO.genruntimeconfig.cache
+D:\yчёба\МиАПО\Практика\MiAPO\MiAPO\obj\Debug\net6.0\ref\MiAPO.dll
