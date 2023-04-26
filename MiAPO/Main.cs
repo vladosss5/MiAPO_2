@@ -17,6 +17,10 @@
 
             switch (operation)
             {
+                case '*':
+                Multiplier(numeric1, numeric2);
+                    break;
+                    
                 case '+':
                     Adder(numeric1, numeric2);
                     break;
@@ -27,10 +31,6 @@
 
                 case '/':
                     Divider(numeric1, numeric2);
-                    break;
-
-                case '*':
-                    Multiplier(numeric1, numeric2);
                     break;
             }
 
