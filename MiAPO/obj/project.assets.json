@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gr602_kival\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\тьт\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\yчёба\\МиАПО\\Практика\\MiAPO\\MiAPO\\MiAPO.csproj",
+      "projectUniqueName": "D:\\Документы\\yчёба\\МиАПО\\Практика\\MiAPO_2\\MiAPO\\MiAPO.csproj",
       "projectName": "MiAPO",
-      "projectPath": "D:\\yчёба\\МиАПО\\Практика\\MiAPO\\MiAPO\\MiAPO.csproj",
-      "packagesPath": "C:\\Users\\gr602_kival\\.nuget\\packages\\",
-      "outputPath": "D:\\yчёба\\МиАПО\\Практика\\MiAPO\\MiAPO\\obj\\",
+      "projectPath": "D:\\Документы\\yчёба\\МиАПО\\Практика\\MiAPO_2\\MiAPO\\MiAPO.csproj",
+      "packagesPath": "C:\\Users\\тьт\\.nuget\\packages\\",
+      "outputPath": "D:\\Документы\\yчёба\\МиАПО\\Практика\\MiAPO_2\\MiAPO\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gr602_kival\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\тьт\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -64,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

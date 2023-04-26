@@ -20,13 +20,13 @@
                 case '+':
                     Adder(numeric1, numeric2);
                     break;
+                
+                case '/':
+                    Divider(numeric1, numeric2);
+                    break;
 
                 case '-':
                     Subtractor(numeric1, numeric2);
-                    break;
-
-                case '/':
-                    Divider(numeric1, numeric2);
                     break;
 
                 case '*':
